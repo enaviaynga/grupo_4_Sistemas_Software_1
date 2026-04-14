@@ -1,5 +1,10 @@
 # Pendientes actuales
 
+**Estructura y Formato:**
+- Carátula con nombres de integrantes
+- Índice de contenidos, índice de tablas e índice de figuras
+- Numeración de páginas
+
 **Contenido Principal:**
 - [x] **Introducción:** Verifica que se mencione el proyecto a desarrollar y las herramientas/tecnologías a utilizar (lenguajes de programación, bases de datos, etc.
 - [ ] **Descripción del Problema:** Solicita la descripción detallada del proceso actual desde inicio hasta fin, con evidencias de cómo se realiza manualmente
