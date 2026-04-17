@@ -17,3 +17,9 @@
 - [ ] **Estado del Arte:** Pregunta sobre los 3 trabajos similares considerados, solicita explicación del segundo trabajo y cómo ayuda al proyecto actual
 - [ ] **Bibliografía:** Verifica que exista y vaya creciendo conforme avanza el proyecto
 
+**Quien explica que**
+- Navia: Introduccion
+- Paula: Estado del arte
+- Lopez: Indicadores
+- Raul: Requerimientos
+- Carmen: Objetivos/diagrama de arbol
