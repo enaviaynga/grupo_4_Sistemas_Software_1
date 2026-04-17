@@ -1,4 +1,4 @@
-Redacta un mensaje de commit para estos cambios en español.<br>
+Redactar un mensaje de commit siempre en español.<br>
 Cabecera corta en español, formato: \<tipo de cambio\>\[amabito(opcional)\]: \<cambio realizado\><br>
 Descripcion en español: Aqui es mas completo<br>
 Advertencia(opcional) en español: Si se ha tocado algo central
