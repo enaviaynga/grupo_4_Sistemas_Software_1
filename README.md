@@ -12,7 +12,7 @@
 - [x] **Diagrama de Árbol y Objetivos:** Verifica la relación entre el problema central y el objetivo general, y entre las causas y los objetivos específicos
 - [X] **Requerimientos Funcionales:** Revisa la lista y solicita explicación de requerimientos específicos con sus plantillas (registro, consulta, modificación, eliminación)
 - [X] **Requerimientos No Funcionales:** Pregunta sobre aspectos como usabilidad e interfaz
-- [ ] **Limitaciones:** Solicita explicación de las limitaciones establecidas
+- [X] **Limitaciones:** Solicita explicación de las limitaciones establecidas
 - [x] **Justificación:** Pide que expliquen por qué se crea el sistema y qué se logrará
 - [ ] **Estado del Arte:** Pregunta sobre los 3 trabajos similares considerados, solicita explicación del segundo trabajo y cómo ayuda al proyecto actual
 - [ ] **Bibliografía:** Verifica que exista y vaya creciendo conforme avanza el proyecto
